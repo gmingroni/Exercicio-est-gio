@@ -1,0 +1,24 @@
+Usando formulas de fisica
+S1 = S2
+sendo So de 1 = 0 e So de 2 = 100 temos que:
+0 + 110t + 110/6 = 100 - 80t (esse 110/6 é o quanto o carro andou enquanto o caminhão ficou parado)
+190t = 490/6
+t = 49/(6*19)
+
+trocando t na expressao de S2
+temos que 
+S2 = 100 - 80*49/(6*19)
+S2 = 100 - 40*49/57
+S2 =~ 100 - 34,38 km
+S2 =~ 65,61; 
+
+Como S1 = S2 
+O carro precisa andar os 34,38 andados pelo caminhão para chegar em franca e após isso voltar para ribeirão preto
+logo o tempo necessário para que o carro volte para ribeirão preto é:
+tcarro = 134,38/110 = 1,22 h =~ 72 minutos
+Já o caminhão precisa apenas andar os 65,61 km restantes, portanto
+tcaminhao = 65,61/80 =~ 0,82 h =~ 49 minutos
+
+Portanto, o mais próximo é o caminhão.
+
+ 

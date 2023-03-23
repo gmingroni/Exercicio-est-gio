@@ -1,0 +1,6 @@
+a) Soma 2 no próximo elemento, logo o 5 elemento é 9
+b) Duplica o valor anterior e coloca seu resultado no elemento, logo o próximo elemento é 128
+c) Multiplica n por n, e após isso soma 1 unidade a n, ou seja => 0 = 0x0 , 1 = 1x1, 4=2x2. Logo o valor será 49
+d) Multiplica n por n, e após isso soma 2 unidades a n, começando pelo numero 2, ou seja => 4 = 2x2, 16 = 4x4, logo o próximo elemento será 100
+e) Fibonacci começando do 1, logo o próximo elemento será 13
+f) A sequência mostra todos os números que começam com d, logo o próximo seria 200
